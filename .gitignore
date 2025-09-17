@@ -1,0 +1,50 @@
+# === General ===
+.DS_Store
+Thumbs.db
+*.log
+logs/
+*.tmp
+*.swp
+*.swo
+
+# === Node / React ===
+node_modules/
+.build/
+build/
+dist/
+.cache/
+.parcel-cache/
+coverage/
+.npm/
+.yarn/
+.yarn-integrity
+.eslintcache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Python / Flask ===
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.python-version
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.iml
+
+# === Environment files ===
+.env
+.env.*
+
+# === OS ===
+Desktop.ini
