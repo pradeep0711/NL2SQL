@@ -1,7 +1,6 @@
 # NL2SQL - Natural Language to SQL
 
 ![NL2SQL Logo](https://via.placeholder.com/400x100/6366f1/ffffff?text=NL2SQL)
-<img width="1829" height="866" alt="Screenshot 2025-09-17 193923" src="https://github.com/user-attachments/assets/2b0e1acf-67ef-480a-a913-e3fdfafb7842" />
 
 
 **Transform Natural Language into SQL with Advanced NLP**
